@@ -132,8 +132,8 @@ url = "contact/"
 weight = 4
 
 [[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
+name = "Graby"
+url = "https://wpgraby.com/"
 weight = 5
 
 [[menu.main]]
